@@ -3,9 +3,9 @@
 
 - 🔭 My react project are available **below**
 
-- 👯 U-Tube [https://dz-react-app.netlify.app/](https://dz-react-app.netlify.app/)
+- U-Tube [https://dz-react-app.netlify.app/](https://dz-react-app.netlify.app/)
 
-- 🤝 Image-Generator [https://d-image-gen.netlify.app/](https://d-image-gen.netlify.app/)
+- Image-Generator [https://d-image-gen.netlify.app/](https://d-image-gen.netlify.app/)
 
 - 📫 How to reach me **Email: dhanuzh.d@gmail.com LinkedIn: dhanush d**
 
