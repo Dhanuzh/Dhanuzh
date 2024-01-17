@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">Crafting Seamless Experiences with React and SwiftUI: Frontend Developer Extraordinaire</h3>
 
-- 🔭 My react project are available **below**
+🔭 My react project are available **below**
 
 - U-Tube [https://dz-react-app.netlify.app/](https://dz-react-app.netlify.app/)
 
 - Image-Generator [https://d-image-gen.netlify.app/](https://d-image-gen.netlify.app/)
 
-- 📫 How to reach me **Email: dhanuzh.d@gmail.com LinkedIn: dhanush d**
+📫 How to reach me **Email: dhanuzh.d@gmail.com LinkedIn: dhanush d**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
