@@ -1,10 +1,10 @@
-
+ff
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **dhanuzh.d@gmail.com**
+- 📫 How to reach me **Email: dhanuzh.d@gmail.com** LinkedIn **Dhanuzh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
