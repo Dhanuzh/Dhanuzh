@@ -1,6 +1,8 @@
+
+
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">Crafting Seamless Experiences with React and SwiftUI: Frontend Developer Extraordinaire</h3>
-<img align="right" alt="coding" width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+<img align="right" alt="coding" width=400 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 🔭 My react project are available **below**
 
