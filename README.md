@@ -1,4 +1,4 @@
-[![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)]
+[![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/Dhanuzh)
 
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
 <h3 align="center">Crafting Seamless Experiences with React and SwiftUI: Frontend Developer Extraordinaire</h3>
