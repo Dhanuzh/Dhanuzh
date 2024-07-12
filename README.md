@@ -1,7 +1,7 @@
 [![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/Dhanuzh)
 
 <h1 align="center">Hi 👋, I'm Dhanush</h1>
-<h3 align="center">Crafting Seamless Experiences with React and SwiftUI: Frontend Developer Extraordinaire</h3>
+<h3 align="center">Full Stack Engineer | Crafting Seamless Experiences with React, SwiftUI, and Rust</h3>
 <img align="right" alt="coding" autoplay width=200 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 🔭 My react project are available **below**
