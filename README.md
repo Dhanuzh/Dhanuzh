@@ -7,4 +7,4 @@ Fun Facts
 * Skill issues :)
 * Freelancer Life: I code, I conquer, I invoice. Rinse and repeat.
 * When I’m not in coding mode, I’m probably leveling up my skills, whether it’s learning a new language (both programming and spoken) or figuring out the best way to track time like a boss.
-* I am lord of the joker's [LinkedIn](https://www.linkedin.com/in/dhanush-d-84019b281/). Who said LinkedIn has to be all business, anyway?
+* I am lord of the goblin's [LinkedIn](https://www.linkedin.com/in/dhanush-d-84019b281/). Who said LinkedIn has to be all business, anyway?
