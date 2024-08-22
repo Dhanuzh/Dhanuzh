@@ -4,7 +4,7 @@ Just a guy on a mission to make my dev workflow crazy awesome, build blazing-fas
 
 Fun Facts
 * I’m obsessed with tweaking my setup—Neovim, TMUX, and terminal CLI tools are my jam. If it makes coding more fun, I’m all in.
-* Skill issues :)
+* Skill issue :)
 * Freelancer Life: I code, I conquer, I invoice. Rinse and repeat.
 * When I’m not in coding mode, I’m probably leveling up my skills, whether it’s learning a new language (both programming and spoken) or figuring out the best way to track time like a boss.
 * I am lord of the goblin's [LinkedIn](https://www.linkedin.com/in/dhanush-d-84019b281/). Who said LinkedIn has to be all business, anyway?
