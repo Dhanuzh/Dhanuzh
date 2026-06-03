@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Dhanush&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%C2%B7%20Workflow%20Architect%20%C2%B7%20Rust%20Enjoyer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=220&section=header&text=Dhanush&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Workflow%20Architect%20%C2%B7%20Rust%20Enjoyer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -12,153 +12,129 @@
 
 </div>
 
+<br>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&text=About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
+
+```
+dhanuzh@arch  ~
+─────────────────────────────────────────────────────
+            ██████╗ ██╗  ██╗    Name      Dhanush D
+            ██╔══██╗██║  ██║    Role      Full Stack Engineer · Freelancer
+            ██║  ██║███████║    Location  Bengaluru, India
+            ██║  ██║██╔══██║    ─────────────────────────────────────
+            ██████╔╝██║  ██║    OS        Windows 11 + Arch Linux WSL
+            ╚═════╝ ╚═╝  ╚═╝    Editor    Neovim
+                                Terminal  Windows Terminal + TMUX
+                                WM        komorebi + whkd
+                                Theme     Catppuccin Mocha
+                                ─────────────────────────────────────
+                                Building  dcode-ai (Rust AI coding agent)
+                                Learning  Rust — WebAssembly bridge
+                                Status    shipping · learning · invoicing
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=50&section=footer" width="100%"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&text=Projects&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20WSL-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+| 🦀 Project | Stack | Status |
+|:---|:---|:---:|
+| **[dcode-ai](https://github.com/Dhanuzh/dcode-ai)** — Rust-native terminal AI coding agent | Rust · CLI · Multi-provider · Live reasoning streams | 🟢 Active |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=50&section=footer" width="100%"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=80&text=Tech%20Stack&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,react,wasm&perline=10&theme=dark" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=neovim,linux,bash,git,github&perline=10&theme=dark" />
+</a>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=azure,postgres,docker,vscode,figma&perline=10&theme=dark" />
+</a>
 
 </div>
 
 <br>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&text=About%20Me&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
-
-```
-  ██████╗ ██╗  ██╗     dhanuzh@dev
-  ██╔══██╗██║  ██║     -----------
-  ██║  ██║███████║     role      Full Stack Engineer · Freelancer · Workflow Nerd
-  ██║  ██║██╔══██║     location  Bengaluru, India
-  ██████╔╝██║  ██║     
-  ╚═════╝ ╚═╝  ╚═╝     OS        Windows 11 + Arch Linux WSL
-                        Editor    Neovim
-                        Terminal  Windows Terminal + TMUX
-  ┌─ stack ───────┐     WM        komorebi + whkd
-  │ Rust 🦀       │     Theme     Catppuccin Mocha
-  │ TypeScript    │     
-  │ React         │     Building  dcode-ai (Rust AI coding agent)
-  │ Axum          │     Learning  Rust — the long game
-  │ Claude API    │     Status    shipping · learning · invoicing
-  └───────────────┘     
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=60&section=footer" width="100%"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=100&text=Projects&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
-
-```
-📦 dcode-ai
-├── 🦀 Language    Rust (100%)
-├── 🤖 Type        Terminal AI coding agent
-├── 🔌 Providers   Claude · OpenAI · (more coming)
-├── ⚡ Features    Live reasoning token streaming
-├── 🔗 Repo        github.com/Dhanuzh/dcode-ai
-└── 🟢 Status      Active · Built from scratch · By me · In Rust
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=60&section=footer" width="100%"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=100&text=Tech%20Stack&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
-
-<details>
-<summary><b>Languages & Runtimes</b></summary>
-<br>
+<div align="center">
 
 ![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>Frontend</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![SharePoint SPFx](https://img.shields.io/badge/SharePoint%20SPFx-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
-![Dioxus](https://img.shields.io/badge/Dioxus-000000?style=flat-square&logo=rust&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Backend & Integrations</b></summary>
-<br>
-
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
+![SharePoint SPFx](https://img.shields.io/badge/SharePoint%20SPFx-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
-![NetSuite](https://img.shields.io/badge/NetSuite%20SOAP-009EDB?style=flat-square)
-![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Environment & Tooling</b></summary>
-<br>
-
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![TMUX](https://img.shields.io/badge/TMUX-1BB91F?style=flat-square&logo=tmux&logoColor=white)
-![Arch WSL](https://img.shields.io/badge/Arch%20WSL-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+![Dioxus](https://img.shields.io/badge/Dioxus-000000?style=flat-square&logo=rust&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square)
 ![komorebi](https://img.shields.io/badge/komorebi%20WM-222222?style=flat-square)
-![whkd](https://img.shields.io/badge/whkd-222222?style=flat-square)
-![Catppuccin](https://img.shields.io/badge/Catppuccin%20Mocha-CBA6F7?style=flat-square&logoColor=1e1e2e)
+![Catppuccin](https://img.shields.io/badge/Catppuccin%20Mocha-CBA6F7?style=flat-square)
 
-</details>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=50&section=footer" width="100%"/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=100&text=Fun%20Facts&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=80&text=Fun%20Facts&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
 
 ```rust
 fn facts() -> Vec<&'static str> {
     vec![
         /* 01 */ "Obsessed with tweaking my setup — Neovim, TMUX, komorebi.
                   If it makes coding more fun, I'm all in.",
-
         /* 02 */ "On a deliberate path to master Rust. Started from TS/JS,
                   bridging through WebAssembly. Long game.",
-
         /* 03 */ "Freelancer life: I code, I conquer, I invoice. Rinse and repeat.",
-
         /* 04 */ "Always learning something — a new framework, a spoken language,
                   or a better way to track time like a boss.",
-
         /* 05 */ "Self-appointed Lord of the Goblins on LinkedIn.
                   Who said it has to be all business?",
     ]
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=60&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=50&section=footer" width="100%"/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=100&text=Stats&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=80&text=Stats&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhanuzh&show_icons=true&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=1D9E75&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuzh&layout=compact&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanuzh&show_icons=true&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=1D9E75&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuzh&layout=compact&theme=tokyonight&border_color=7F77DD&title_color=7F77DD" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dhanuzh&theme=tokyonight&border=7F77DD&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD)
+![Streak](https://streak-stats.demolab.com?user=Dhanuzh&theme=tokyonight&border=7F77DD&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=60&section=footer" width="100%"/>
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhanuzh&theme=tokyo-night&color=7F77DD&line=7F77DD&point=1D9E75&area=true&hide_border=false)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=50&section=footer" width="100%"/>
 
 ---
 
@@ -170,6 +146,10 @@ fn facts() -> Vec<&'static str> {
 &nbsp;
 [![dcode-ai](https://img.shields.io/badge/dcode--ai-7F77DD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhanuzh/dcode-ai)
 
+<br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Dhanuzh&color=7F77DD&style=flat-square&label=profile+views)
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer" width="100%"/>
