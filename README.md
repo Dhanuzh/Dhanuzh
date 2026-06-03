@@ -1,22 +1,24 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗ █████╗ ███╗   ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗██║  ██║██╔══██╗████╗  ██║██║   ██║██╔════╝██║  ██║
-██║  ██║███████║███████║██╔██╗ ██║██║   ██║███████╗███████║
-██║  ██║██╔══██║██╔══██║██║╚██╗██║██║   ██║╚════██║██╔══██║
-██████╔╝██║  ██║██║  ██║██║ ╚████║╚██████╔╝███████║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Dhanush&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%C2%B7%20Workflow%20Architect%20%C2%B7%20Rust%20Enjoyer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-**Full stack engineer. Workflow architect. Rust enjoyer.**
-*Making devs go "Whoa, how'd you do that?!"*
+</div>
 
-![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20WSL-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Making+devs+go+%22Whoa%2C+how%27d+you+do+that%3F%21%22;cargo+build+--release+%F0%9F%A6%80)](https://github.com/Dhanuzh)
+
+</div>
+
+---
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20WSL-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </div>
 
@@ -37,7 +39,15 @@ status = "shipping · learning · invoicing"
 
 ## `❯ ls ./projects/`
 
-> 🟢 &nbsp;**[dcode-ai](https://github.com/Dhanuzh/dcode-ai)** — Rust-native terminal coding agent · multi-provider AI · CLI-first
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Dhanuzh/dcode-ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhanuzh&repo=dcode-ai&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=1D9E75" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,7 +70,6 @@ status = "shipping · learning · invoicing"
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
 ![NetSuite](https://img.shields.io/badge/NetSuite%20SOAP-009EDB?style=flat-square)
-![Zoho](https://img.shields.io/badge/Zoho-E42527?style=flat-square&logo=zoho&logoColor=white)
 
 **Environment & Tooling**
 
@@ -93,6 +102,23 @@ status = "shipping · learning · invoicing"
 
 ---
 
+## `❯ htop`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhanuzh&show_icons=true&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&icon_color=1D9E75&hide_border=false&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuzh&layout=compact&theme=tokyonight&border_color=7F77DD&title_color=7F77DD&hide_border=false" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dhanuzh&theme=tokyonight&border=7F77DD&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD)
+
+</div>
+
+---
+
 ## `❯ open ./links`
 
 <div align="center">
@@ -108,5 +134,5 @@ status = "shipping · learning · invoicing"
 ---
 
 <div align="center">
-<sub><code>crafted with cargo build --release</code> &nbsp;·&nbsp; <code>dhanush@dev:~$</code> ▌</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%"/>
 </div>
