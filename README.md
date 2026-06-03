@@ -26,7 +26,7 @@
 
 ---
 
-## `❯ cat about.toml`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7F77DD&height=50&text=%E2%9D%AF%20cat%20about.toml&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=identity%20%C2%B7%20stack%20%C2%B7%20setup%20%C2%B7%20currently&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
 
 ```toml
 [identity]
@@ -55,21 +55,26 @@ status    = "shipping · learning · invoicing"
 
 ---
 
-## `❯ ls ./projects/`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=534AB7&height=50&text=%E2%9D%AF%20ls%20.%2Fprojects%2F&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=what%20I%27m%20building%20right%20now&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
 
 <div align="center">
 
-| | Project | Stack | Status |
-|---|---|---|---|
-| 🦀 | **[dcode-ai](https://github.com/Dhanuzh/dcode-ai)** | Rust · CLI · Multi-provider AI · Live reasoning streams | 🟢 Active |
+| Project | Stack | Status |
+|---|---|---|
+| 🦀 **[dcode-ai](https://github.com/Dhanuzh/dcode-ai)** | Rust · CLI · Multi-provider AI · Live reasoning streams | 🟢 Active |
 
 </div>
 
-> **dcode-ai** is a Rust-native terminal-first coding agent with multi-provider support (Claude, OpenAI, etc.) and live reasoning token streaming — built from scratch, by me, in Rust.
+```
+dcode-ai  →  Rust-native terminal coding agent
+             multi-provider AI (Claude, OpenAI, ...)
+             live reasoning token streaming
+             built from scratch · by me · in Rust
+```
 
 ---
 
-## `❯ cat tech-stack.txt`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3C3489&height=50&text=%E2%9D%AF%20cat%20tech-stack.txt&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=languages%20%C2%B7%20frontend%20%C2%B7%20backend%20%C2%B7%20tooling&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
 
 <details>
 <summary><b>Languages & Runtimes</b></summary>
@@ -118,7 +123,7 @@ status    = "shipping · learning · invoicing"
 
 ---
 
-## `❯ cargo run --bin facts`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=26215C&height=50&text=%E2%9D%AF%20cargo%20run%20--bin%20facts&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=5%20things%20about%20me&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
 
 ```rust
 fn facts() -> Vec<&'static str> {
@@ -142,7 +147,7 @@ fn facts() -> Vec<&'static str> {
 
 ---
 
-## `❯ htop`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=50&text=%E2%9D%AF%20htop&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=github%20stats%20%C2%B7%20streaks%20%C2%B7%20languages&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
 
 <div align="center">
 
@@ -159,7 +164,7 @@ fn facts() -> Vec<&'static str> {
 
 ---
 
-## `❯ open ./links`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=085041&height=50&text=%E2%9D%AF%20open%20.%2Flinks&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=find%20me%20on%20the%20internet&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
 
 <div align="center">
 
