@@ -6,9 +6,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dhanuzh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&height=45&lines=Making+devs+go+%22Whoa%2C+how%27d+you+do+that%3F%21%22;%24+cargo+build+--release+%F0%9F%A6%80;Full+Stack+%C2%B7+Rust+Enjoyer+%C2%B7+CLI+Nerd" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&height=45&lines=Making+devs+go+%22Whoa%2C+how%27d+you+do+that%3F%21%22;%24+cargo+build+--release+%F0%9F%A6%80;Full+Stack+%C2%B7+Rust+Enjoyer+%C2%B7+CLI+Nerd" alt="Typing SVG" />
 
 </div>
 
@@ -18,31 +16,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&text=About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
 
-```ansi
-[1;35mdhanuzh[0m[1;37m@[0m[1;35march[0m [1;37m~[0m
-```
+<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ██████╗ ██╗  ██╗   dhanuzh@arch                          ║
-║    ██╔══██╗██║  ██║   ───────────────────────────────────   ║
-║    ██║  ██║███████║   Name      » Dhanush D                 ║
-║    ██║  ██║██╔══██║   Role      » Full Stack Eng · Freelancer║
-║    ██████╔╝██║  ██║   Location  » Bengaluru, India           ║
-║    ╚═════╝ ╚═╝  ╚═╝   ───────────────────────────────────   ║
-║                        OS        » Win 11 + Arch Linux WSL   ║
-║    [ shipping ]        Editor    » Neovim                    ║
-║    [ learning ]        Terminal  » Windows Terminal + TMUX   ║
-║    [ invoicing]        WM        » komorebi + whkd           ║
-║                        Theme     » Catppuccin Mocha          ║
-║                        ───────────────────────────────────   ║
-║                        Building  » dcode-ai 🦀               ║
-║                        Learning  » Rust → WebAssembly        ║
-║                        Status    » Always shipping           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| 🏷️ | |
+|:---|:---|
+| **Name** | Dhanush D |
+| **Role** | Full Stack Engineer · Freelancer · Workflow Nerd |
+| **Location** | 📍 Bengaluru, India |
+
+| 🖥️ Setup | |
+|:---|:---|
+| **OS** | Windows 11 + Arch Linux WSL |
+| **Editor** | Neovim |
+| **Terminal** | Windows Terminal + TMUX |
+| **WM** | komorebi + whkd |
+| **Theme** | Catppuccin Mocha |
+
+| 🚀 Currently | |
+|:---|:---|
+| **Building** | dcode-ai — Rust-native terminal AI coding agent 🦀 |
+| **Learning** | Rust → WebAssembly bridge (long game) |
+| **Status** | `shipping` · `learning` · `invoicing` |
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=50&section=footer" width="100%"/>
 
