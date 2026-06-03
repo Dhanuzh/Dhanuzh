@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/Dhanuzh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=Making+devs+go+%22Whoa%2C+how%27d+you+do+that%3F!%22;cargo+build+--release+🦀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&height=45&lines=Making+devs+go+%22Whoa%2C+how%27d+you+do+that%3F%21%22;%24+cargo+build+--release+%F0%9F%A6%80;Full+Stack+%C2%B7+Rust+Enjoyer+%C2%B7+CLI+Nerd" alt="Typing SVG" />
 </a>
 
 </div>
@@ -26,7 +26,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7F77DD&height=50&text=%E2%9D%AF%20cat%20about.toml&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=identity%20%C2%B7%20stack%20%C2%B7%20setup%20%C2%B7%20currently&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=60&text=%E2%9D%AF%20cat%20about.toml&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=identity%20%C2%B7%20stack%20%C2%B7%20setup%20%C2%B7%20currently&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
 
 ```toml
 [identity]
@@ -55,26 +55,27 @@ status    = "shipping · learning · invoicing"
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=534AB7&height=50&text=%E2%9D%AF%20ls%20.%2Fprojects%2F&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=what%20I%27m%20building%20right%20now&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=534AB7&height=60&text=%E2%9D%AF%20ls%20.%2Fprojects%2F&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=what%20I%27m%20building%20right%20now&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
 
-<div align="center">
+```bash
+$ ls -la ./projects/
 
-| Project | Stack | Status |
-|---|---|---|
-| 🦀 **[dcode-ai](https://github.com/Dhanuzh/dcode-ai)** | Rust · CLI · Multi-provider AI · Live reasoning streams | 🟢 Active |
-
-</div>
+drwxr-xr-x  dhanuzh  staff   dcode-ai/
+```
 
 ```
-dcode-ai  →  Rust-native terminal coding agent
-             multi-provider AI (Claude, OpenAI, ...)
-             live reasoning token streaming
-             built from scratch · by me · in Rust
+📦 dcode-ai
+├── 🦀 Language    Rust (100%)
+├── 🤖 Type        Terminal AI coding agent
+├── 🔌 Providers   Claude · OpenAI · (more coming)
+├── ⚡ Features    Live reasoning token streaming
+├── 🔗 Repo        github.com/Dhanuzh/dcode-ai
+└── 🟢 Status      Active · Built from scratch · By me · In Rust
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3C3489&height=50&text=%E2%9D%AF%20cat%20tech-stack.txt&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=languages%20%C2%B7%20frontend%20%C2%B7%20backend%20%C2%B7%20tooling&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3C3489&height=60&text=%E2%9D%AF%20cat%20tech-stack.txt&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=languages%20%C2%B7%20frontend%20%C2%B7%20backend%20%C2%B7%20tooling&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
 
 <details>
 <summary><b>Languages & Runtimes</b></summary>
@@ -123,7 +124,7 @@ dcode-ai  →  Rust-native terminal coding agent
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=26215C&height=50&text=%E2%9D%AF%20cargo%20run%20--bin%20facts&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=5%20things%20about%20me&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=26215C&height=60&text=%E2%9D%AF%20cargo%20run%20--bin%20facts&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=5%20fun%20facts&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
 
 ```rust
 fn facts() -> Vec<&'static str> {
@@ -147,7 +148,7 @@ fn facts() -> Vec<&'static str> {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=50&text=%E2%9D%AF%20htop&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=github%20stats%20%C2%B7%20streaks%20%C2%B7%20languages&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=60&text=%E2%9D%AF%20htop&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=stats%20%C2%B7%20streaks%20%C2%B7%20top%20languages&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
 
 <div align="center">
 
@@ -164,7 +165,7 @@ fn facts() -> Vec<&'static str> {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=085041&height=50&text=%E2%9D%AF%20open%20.%2Flinks&fontAlign=4&fontAlignY=68&fontSize=20&fontColor=ffffff&desc=find%20me%20on%20the%20internet&descAlign=4&descAlignY=140&descSize=12" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=085041&height=60&text=%E2%9D%AF%20open%20.%2Flinks&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=find%20me%20on%20the%20internet&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
 
 <div align="center">
 
