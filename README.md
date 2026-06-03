@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=220&section=header&text=Dhanush&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Workflow%20Architect%20%C2%B7%20Rust%20Enjoyer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=220&section=header&text=Dhanush&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Workflow%20Architect%20%C2%B7%20Rust%20Enjoyer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/></picture>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&text=About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&text=About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/></picture>
 
 <div align="center">
 
@@ -43,11 +43,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=50&section=footer" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=50&section=footer" width="100%"/></picture>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&text=Projects&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=80&text=Projects&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/></picture>
 
 <div align="center">
 
@@ -57,11 +57,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=50&section=footer" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=50&section=footer" width="100%"/></picture>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=80&text=Tech%20Stack&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=80&text=Tech%20Stack&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/></picture>
 
 <div align="center">
 
@@ -94,11 +94,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=50&section=footer" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=50&section=footer" width="100%"/></picture>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=80&text=Fun%20Facts&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=80&text=Fun%20Facts&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/></picture>
 
 <div align="center">
 
@@ -133,11 +133,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=50&section=footer" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=50&section=footer" width="100%"/></picture>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=80&text=Stats&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=80&text=Stats&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/></picture>
 
 <div align="center">
 
@@ -158,7 +158,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=50&section=footer" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=50&section=footer" width="100%"/></picture>
 
 ---
 
@@ -176,4 +176,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer" width="100%"/>
+<picture><img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer" width="100%"/></picture>
