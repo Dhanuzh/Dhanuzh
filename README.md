@@ -18,25 +18,28 @@
 
 <div align="center">
 
-| 🏷️ | |
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+| 🏷️ Identity | |
 |:---|:---|
 | **Name** | Dhanush D |
-| **Role** | Full Stack Engineer · Freelancer · Workflow Nerd |
+| **Role** | Full Stack Engineer · Freelancer |
 | **Location** | 📍 Bengaluru, India |
 
-| 🖥️ Setup | |
-|:---|:---|
-| **OS** | Windows 11 + Arch Linux WSL |
-| **Editor** | Neovim |
-| **Terminal** | Windows Terminal + TMUX |
-| **WM** | komorebi + whkd |
-| **Theme** | Catppuccin Mocha |
+  </td>
+    <td valign="top" width="50%">
 
 | 🚀 Currently | |
 |:---|:---|
-| **Building** | dcode-ai — Rust-native terminal AI coding agent 🦀 |
-| **Learning** | Rust → WebAssembly bridge (long game) |
+| **Building** | dcode-ai 🦀 |
+| **Learning** | Rust → WebAssembly |
 | **Status** | `shipping` · `learning` · `invoicing` |
+
+  </td>
+  </tr>
+</table>
 
 </div>
 
