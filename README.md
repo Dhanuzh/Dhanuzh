@@ -26,7 +26,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=60&text=%E2%9D%AF%20cat%20about.toml&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=identity%20%C2%B7%20stack%20%C2%B7%20setup%20%C2%B7%20currently&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&text=About%20Me&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
 
 ```toml
 [identity]
@@ -53,15 +53,11 @@ learning  = "Rust (the long game, WebAssembly bridge)"
 status    = "shipping · learning · invoicing"
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=60&section=footer" width="100%"/>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=534AB7&height=60&text=%E2%9D%AF%20ls%20.%2Fprojects%2F&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=what%20I%27m%20building%20right%20now&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
-
-```bash
-$ ls -la ./projects/
-
-drwxr-xr-x  dhanuzh  staff   dcode-ai/
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=100&text=Projects&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
 
 ```
 📦 dcode-ai
@@ -73,9 +69,11 @@ drwxr-xr-x  dhanuzh  staff   dcode-ai/
 └── 🟢 Status      Active · Built from scratch · By me · In Rust
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=60&section=footer" width="100%"/>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3C3489&height=60&text=%E2%9D%AF%20cat%20tech-stack.txt&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=languages%20%C2%B7%20frontend%20%C2%B7%20backend%20%C2%B7%20tooling&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=100&text=Tech%20Stack&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
 
 <details>
 <summary><b>Languages & Runtimes</b></summary>
@@ -122,9 +120,11 @@ drwxr-xr-x  dhanuzh  staff   dcode-ai/
 
 </details>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=60&section=footer" width="100%"/>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=26215C&height=60&text=%E2%9D%AF%20cargo%20run%20--bin%20facts&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=5%20fun%20facts&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=100&text=Fun%20Facts&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
 
 ```rust
 fn facts() -> Vec<&'static str> {
@@ -146,9 +146,11 @@ fn facts() -> Vec<&'static str> {
 }
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=60&section=footer" width="100%"/>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=60&text=%E2%9D%AF%20htop&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=stats%20%C2%B7%20streaks%20%C2%B7%20top%20languages&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=100&text=Stats&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -163,9 +165,9 @@ fn facts() -> Vec<&'static str> {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=60&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=085041&height=60&text=%E2%9D%AF%20open%20.%2Flinks&fontAlign=50&fontAlignY=55&fontSize=22&fontColor=ffffff&desc=find%20me%20on%20the%20internet&descAlign=50&descAlignY=80&descSize=13" width="100%"/>
+---
 
 <div align="center">
 
@@ -177,8 +179,4 @@ fn facts() -> Vec<&'static str> {
 
 </div>
 
----
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%"/>
-</div>
