@@ -28,29 +28,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&text=About%20Me&fontSize=36&fontColor=ffffff&fontAlignY=55&section=header&animation=fadeIn" width="100%"/>
 
-```toml
-[identity]
-name     = "Dhanush D"
-role     = "Full Stack Engineer · Freelancer · Workflow Nerd"
-location = "Bengaluru, India"
-
-[stack]
-languages = ["Rust 🦀", "TypeScript", "JavaScript"]
-frontend  = ["React", "SharePoint SPFx", "Dioxus"]
-backend   = ["Axum", "Power Automate", "NetSuite SOAP"]
-ai        = ["Claude API", "dcode-ai (my own agent)"]
-
-[setup]
-os        = "Windows 11 + Arch Linux WSL"
-editor    = "Neovim"
-terminal  = "Windows Terminal + TMUX"
-wm        = "komorebi + whkd"
-theme     = "Catppuccin Mocha"
-
-[currently]
-building  = "dcode-ai — Rust-native terminal AI coding agent"
-learning  = "Rust (the long game, WebAssembly bridge)"
-status    = "shipping · learning · invoicing"
+```
+  ██████╗ ██╗  ██╗     dhanuzh@dev
+  ██╔══██╗██║  ██║     -----------
+  ██║  ██║███████║     role      Full Stack Engineer · Freelancer · Workflow Nerd
+  ██║  ██║██╔══██║     location  Bengaluru, India
+  ██████╔╝██║  ██║     
+  ╚═════╝ ╚═╝  ╚═╝     OS        Windows 11 + Arch Linux WSL
+                        Editor    Neovim
+                        Terminal  Windows Terminal + TMUX
+  ┌─ stack ───────┐     WM        komorebi + whkd
+  │ Rust 🦀       │     Theme     Catppuccin Mocha
+  │ TypeScript    │     
+  │ React         │     Building  dcode-ai (Rust AI coding agent)
+  │ Axum          │     Learning  Rust — the long game
+  │ Claude API    │     Status    shipping · learning · invoicing
+  └───────────────┘     
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=60&section=footer" width="100%"/>
