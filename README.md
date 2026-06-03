@@ -18,22 +18,30 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=80&text=About%20Me&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
 
+```ansi
+[1;35mdhanuzh[0m[1;37m@[0m[1;35march[0m [1;37m~[0m
 ```
-dhanuzh@arch  ~
-─────────────────────────────────────────────────────
-            ██████╗ ██╗  ██╗    Name      Dhanush D
-            ██╔══██╗██║  ██║    Role      Full Stack Engineer · Freelancer
-            ██║  ██║███████║    Location  Bengaluru, India
-            ██║  ██║██╔══██║    ─────────────────────────────────────
-            ██████╔╝██║  ██║    OS        Windows 11 + Arch Linux WSL
-            ╚═════╝ ╚═╝  ╚═╝    Editor    Neovim
-                                Terminal  Windows Terminal + TMUX
-                                WM        komorebi + whkd
-                                Theme     Catppuccin Mocha
-                                ─────────────────────────────────────
-                                Building  dcode-ai (Rust AI coding agent)
-                                Learning  Rust — WebAssembly bridge
-                                Status    shipping · learning · invoicing
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ██████╗ ██╗  ██╗   dhanuzh@arch                          ║
+║    ██╔══██╗██║  ██║   ───────────────────────────────────   ║
+║    ██║  ██║███████║   Name      » Dhanush D                 ║
+║    ██║  ██║██╔══██║   Role      » Full Stack Eng · Freelancer║
+║    ██████╔╝██║  ██║   Location  » Bengaluru, India           ║
+║    ╚═════╝ ╚═╝  ╚═╝   ───────────────────────────────────   ║
+║                        OS        » Win 11 + Arch Linux WSL   ║
+║    [ shipping ]        Editor    » Neovim                    ║
+║    [ learning ]        Terminal  » Windows Terminal + TMUX   ║
+║    [ invoicing]        WM        » komorebi + whkd           ║
+║                        Theme     » Catppuccin Mocha          ║
+║                        ───────────────────────────────────   ║
+║                        Building  » dcode-ai 🦀               ║
+║                        Learning  » Rust → WebAssembly        ║
+║                        Status    » Always shipping           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=50&section=footer" width="100%"/>
@@ -93,21 +101,38 @@ dhanuzh@arch  ~
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=80&text=Fun%20Facts&fontSize=32&fontColor=ffffff&fontAlignY=60&section=header&animation=fadeIn" width="100%"/>
 
-```rust
-fn facts() -> Vec<&'static str> {
-    vec![
-        /* 01 */ "Obsessed with tweaking my setup — Neovim, TMUX, komorebi.
-                  If it makes coding more fun, I'm all in.",
-        /* 02 */ "On a deliberate path to master Rust. Started from TS/JS,
-                  bridging through WebAssembly. Long game.",
-        /* 03 */ "Freelancer life: I code, I conquer, I invoice. Rinse and repeat.",
-        /* 04 */ "Always learning something — a new framework, a spoken language,
-                  or a better way to track time like a boss.",
-        /* 05 */ "Self-appointed Lord of the Goblins on LinkedIn.
-                  Who said it has to be all business?",
-    ]
-}
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ Setup Obsessed</h3>
+      <p>Neovim · TMUX · komorebi · whkd<br/>If it makes coding more fun, I'm all in.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🦀 Rust Long Game</h3>
+      <p>Started from TS/JS · bridging via WebAssembly<br/>Committed for the long haul.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💼 Freelancer Mode</h3>
+      <p>I code · I conquer · I invoice<br/>Rinse and repeat.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📚 Always Learning</h3>
+      <p>New frameworks · spoken languages<br/>Better ways to track time like a boss.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>👑 Lord of the Goblins</h3>
+      <p>Self-appointed LinkedIn legend.<br/>Who said it has to be all business?</p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=26215C&height=50&section=footer" width="100%"/>
 
